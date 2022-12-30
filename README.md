@@ -5,7 +5,7 @@ Dsign will not only become a dApp similar to our traditional electronic signatur
 
 **Permanent Contract Storage:** The data truly exists on the chain and is constantly globally synchronized by a large number of nodes.
 
-**Immutability:** timestamp, identity, and contract contents are encrypted and packaged on the chain.**
+**Immutability:** timestamp, identity, and contract contents are encrypted and packaged on the chain.
 
 **Service Continuity:** Ensure sustainable execution through the protocol and managed by the developer community through DAO.
 
