@@ -12,4 +12,4 @@ Dsign will not only become a dApp similar to our traditional electronic signatur
 
 **Contract Privacy and Data Ownership:** the users browse the contract only through the private key, and it is executed by the agreement, and the third book and the platform cannot read the user's privacy.
 
-**Trusted identity:** Automatically binds identity and biological information.
+**Trusted Identity:** Automatically binds identity and biological information.
