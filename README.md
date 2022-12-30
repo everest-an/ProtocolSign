@@ -1,5 +1,5 @@
 # Dsign - Decentralized Signature
-Decentralized contract signature platform. It can make the contract permanently stored on the arweave and make your contract have a stronger legal effect through biometrics and blockchain technology. Bring true privacy to your contracts with Dsign protocol, document is handed over to the network protocol for safekeeping.user can transfer files to friends through the privacy document, without worrying about confidential disclosure.
+Decentralized electronic contract signature platform. It can make the contract permanently stored on the arweave and make your contract have a stronger legal effect through biometrics and blockchain technology. Bring true privacy to your contracts with Dsign protocol, document is handed over to the network protocol for safekeeping.user can transfer files to friends through the privacy document, without worrying about confidential disclosure.
 
 Dsign will not only become a dApp similar to our traditional electronic signature platform, but it will also do something that the traditional platforms can't do:
 
